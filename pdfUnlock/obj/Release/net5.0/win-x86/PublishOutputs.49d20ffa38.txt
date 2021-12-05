@@ -1,0 +1,2 @@
+E:\C#Stuff\pdfUnlocker\pdfUnlocker\pdfUnlock\pdfUnlock\pdfUnlock\bin\Release\net5.0\publish\pdfUnlock.pdb
+E:\C#Stuff\pdfUnlocker\pdfUnlocker\pdfUnlock\pdfUnlock\pdfUnlock\bin\Release\net5.0\publish\pdfUnlock.exe

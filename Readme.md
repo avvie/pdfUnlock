@@ -1,3 +1,8 @@
+Simple CLI tool. I could only find online tools that want you to upload your files to their server. Or pay adobe for this...
+so here we are. 
+No more need to upload medical data to shady sites so you can forward them to your doctor :)
+[Let me know if there is a need for a gui app]
+
 Program usage: 
 
 run the exe. it expects 2 parameters. 
